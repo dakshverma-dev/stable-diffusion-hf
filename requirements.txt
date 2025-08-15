@@ -1,4 +1,8 @@
-
+torch
+diffusers
+transformers
+accelerate
+safetensors
 requests
 Pillow
 python-dotenv
